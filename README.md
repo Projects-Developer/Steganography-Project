@@ -1,4 +1,4 @@
-# Steganography-Project
+# Steganography Project
 Steganography Project With Code, Documents and Video Tutorial
 
 ![Steganography](https://github.com/user-attachments/assets/2bf29d89-f6e0-4788-9626-d93a2e9c6dae)
